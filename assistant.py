@@ -1,1 +1,1 @@
-updated code
+variable = 'new value'
